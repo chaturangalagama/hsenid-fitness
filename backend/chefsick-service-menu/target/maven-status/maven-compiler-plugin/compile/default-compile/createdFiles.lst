@@ -1,0 +1,6 @@
+lk/chefsick/service/menu/technical/model/AuthResponse.class
+lk/chefsick/service/menu/technical/config/OAuth2ClientConfig.class
+lk/chefsick/service/menu/ChefsickServiceMenuMain.class
+lk/chefsick/service/menu/technical/config/OAuth2ResourceServerConfig.class
+lk/chefsick/service/menu/technical/connector/OAuthClientTest.class
+lk/chefsick/service/menu/technical/controller/ApiController.class
